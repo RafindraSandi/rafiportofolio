@@ -1,6 +1,5 @@
 import { ChevronDown } from 'lucide-react';
 import { useEffect, useState } from 'react';
-import profileImg from '/images/foto-diri.jpg?url';
 
 interface HeroProps {
   darkMode: boolean;
