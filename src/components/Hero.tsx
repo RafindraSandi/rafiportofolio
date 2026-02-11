@@ -1,6 +1,6 @@
 import { ChevronDown } from 'lucide-react';
 import { useEffect, useState } from 'react';
-import profileImg from './Foto Diri webp.webp';
+import profileImg from '/images/foto-diri.jpg?url';
 
 interface HeroProps {
   darkMode: boolean;
@@ -88,7 +88,7 @@ export default function Hero({ darkMode }: HeroProps) {
                 }`}
               ></div>
               <img
-                src={profileImg}
+                src="/images/foto-diri.jpg"
                 alt="Profile"
                 className="relative w-80 h-80 rounded-full object-cover shadow-2xl border-4 border-white/10"
               />

@@ -11,7 +11,7 @@ const projects = [
     title: 'Aplikasi El Movie',
     description: 'El Movie adalah aplikasi yang memudahkan pengguna menyimpan dan mengelola daftar film favorit dalam satu tempat secara praktis.',
     fullDescription: 'El Movie adalah aplikasi daftar film favorit yang membantu pengguna menyimpan dan mengelola koleksi film kesukaan mereka dalam satu tempat. Melalui aplikasi ini, pengguna dapat menambahkan film favorit ke dalam daftar pribadi sehingga film-film pilihan lebih mudah diingat, diakses, dan dikelola kapan saja. El Movie dirancang dengan tampilan sederhana dan mudah digunakan untuk mendukung pengalaman pengguna dalam mengorganisir film favorit secara praktis.',
-    tech: ['React', 'Node.js', 'MongoDB', 'Tailwind CSS', 'Stripe API'],
+    tech: ['Dart', 'Flutter', 'Firebase'],
     images: [
       '/images/El_movie_1.jpeg',
       '/images/El Movie 2.jpeg',
